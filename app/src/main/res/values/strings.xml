@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Alarm Clock</string>
+    <string name="delete_all">Delete All</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+
+    <string-array name="dawkins_sounds">
+        <item>Ring 1</item>
+        <item>Ring 2</item>
+    </string-array>
+
+
+    <string name="country_prompt">Choose a country</string>
+</resources>
